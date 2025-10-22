@@ -4,7 +4,7 @@ I'm a **Full Stack Developer trainee** at **YouCode**.
 I like building simple and nice websites and improving my coding skills.
 
 ### 🧠 What I’m Doing
-I’m learning how to write clean code and create web projects from line 0 to end point.
+I’m learning to write clean, efficient code and develop web projects from scratch to completion.
 
 ### 💻 Languages & Tools
 <p align="left">
