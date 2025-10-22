@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Mohammed Moussa
 
-I'm a **Full Stack Developer student** at **YouCode**.  
+I'm a **Full Stack Developer trainee** at **YouCode**.  
 I like building simple and nice websites and improving my coding skills.
 
 ### 🧠 What I’m Doing
-I’m learning how to write clean code and create web projects from start to finish.
+I’m learning how to write clean code and create web projects from line 0 to end point.
 
 ### 💻 Languages & Tools
 <p align="left">
