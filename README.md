@@ -69,48 +69,7 @@ Currently, I'm focused on expanding my expertise in web development, AI technolo
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 
-
 </div>
-
----
-
-## Featured Projects
-
-### TalentFlow
-
-An AI-powered recruitment platform designed to streamline hiring processes through intelligent candidate analysis and matching.
-
-#### Key Features
-
-* Resume Import & Parsing
-* Candidate Information Extraction
-* AI-assisted Candidate Analysis
-* Candidate–Company Matching
-* Recruitment Workflow Management
-
-#### Technologies
-
- `FastAPI` • `Next.js` • `TypeScript` • `PostgreSQL` • `AI/NLP` 
-
----
-
-### EXPEDIENT
-
-A sports and fitness platform that connects trainees, coaches, gyms, and sports communities within a single ecosystem.
-
-#### Key Features
-
-* Multi-role Authentication System
-* Gym & Coach Discovery
-* Sports Communities
-* Reviews & Ratings
-* Geolocation Integration
-* Admin Dashboard
-* MVC Architecture
-
-#### Technologies
-
-`Laravel ` • `PostgreSQL` • `JavaScript` • `Tailwind CSS` • 
 
 ---
 
