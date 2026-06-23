@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f172a,100:1e293b\&height=200\&section=header\&text=Mohammed%20Moussa\&fontSize=50\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35\&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast\&descSize=16\&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f172a,100:1e293b\&height=200\&section=header\&text=Mohammed%20Moussa\&fontSize=50\&fontColor=808080\&animation=fadeIn\&fontAlignY=35\&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast\&descSize=16\&descAlignY=55)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=18\&duration=3000\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=750\&lines=Computer+Science+Student+specialized+in+Artificial+Intelligence;Building+Modern+Web+Applications;Exploring+LLMs%2C+NLP%2C+and+Software+Engineering;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
