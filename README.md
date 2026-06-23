@@ -40,7 +40,7 @@ Currently, I'm focused on expanding my expertise in web development, AI technolo
 
 ### Frontend
 
-![Vue.js](https://img.shields.io/badge/Vue.js-61DAFB?style=flat-square\&logo=vue.js)
+![Vue.js](https://img.shields.io/badge/Vue.js-black?style=flat-square\&logo=vue.js)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
