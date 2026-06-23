@@ -1,5 +1,3 @@
-# Mohammed Moussa
-
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f172a,100:1e293b\&height=200\&section=header\&text=Mohammed%20Moussa\&fontSize=50\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35\&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Enthusiast\&descSize=16\&descAlignY=55)
