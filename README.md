@@ -49,12 +49,13 @@ Currently, I'm focused on expanding my expertise in web development, AI technolo
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 
-### Backend & Database
+### Backend
 
 ![Laravel](https://img.shields.io/badge/Laravel-777BB4?style=flat-square\&logo=laravel\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-777BB4?style=flat-square\&logo=fastapi\&logoColor=white)
 
 ### Database
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
 
