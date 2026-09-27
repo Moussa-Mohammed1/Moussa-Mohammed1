@@ -29,6 +29,22 @@ Currently, I'm focused on expanding my expertise in web development, AI technolo
 
 <div align="center">
 
+### AI & Data
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat-square)
+
 ### Languages
 ![C](https://img.shields.io/badge/C-black?style=flat-square&logo=C)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
@@ -81,82 +97,29 @@ Currently, I'm focused on expanding my expertise in web development, AI technolo
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
 </div>
-
----
-
-## Current Focus
-
-🔹 Building scalable full-stack applications
-
-🔹 Exploring AI and NLP technologies
-
-🔹 Learning software architecture and system design
-
-🔹 Developing projects that solve real-world problems
-
-🔹 Contributing to open-source and personal projects
-
----
-
-## GitHub Stats
+ 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=moussa-mohammed1&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
+ 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=moussa-mohammed1&theme=tokyonight&hide_border=true" height="170"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moussa-mohammed1&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
----
-
-## Education
-
-**Computer Science – Artificial Intelligence Specialization**
-
-Focused on:
-
-* Artificial Intelligence
-* Software Engineering
-* Database Systems
-* Operating Systems
-* Computer Networks
-* Object-Oriented Programming
-
----
-
-## Goals
-
-* Become a highly skilled Full-Stack Developer
-* Deepen my expertise in Artificial Intelligence
-* Build impactful software products
-* Contribute to innovative technology projects
-* Continuously learn and improve
-
----
 
 ## Connect With Me
 
 <div align="center">
 
-📧 **Email:** [moussamohammed2005@gmail.com](mailto:moussamohammed2005@gmail.com)
+**Email:** [mohammed.moussa.dev@gmail.com](mailto:mohammed.moussa.dev@gmail.com)
 
-💼 **LinkedIn:** https://www.linkedin.com/in/moussa-mohammed
-
-🌐 **Portfolio:** https://moussa-mohammed1.github.io/Portfolio-v0/
+**LinkedIn:** https://www.linkedin.com/in/moussa-mohammed
 
 </div>
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=moussa-mohammed1\&label=Profile%20Views\&color=0e75b6\&style=flat)
-
-</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0f172a,100:1e293b\&height=100\&section=footer)
