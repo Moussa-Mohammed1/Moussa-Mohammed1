@@ -1,9 +1,10 @@
 <div align="center">
-
+ ![AI Engineer](https://github.com/Moussa-Mohammed1/Moussa-Mohammed1/blob/main/AI_engineer.jpeg)
+<!--
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f172a,100:1e293b\&height=200\&section=header\&text=Mohammed%20Moussa\&fontSize=50\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35\&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Developer\&descSize=16\&descAlignY=55)
-
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=18\&duration=3000\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=750\&lines=Computer+Science+Student+specialized+in+Artificial+Intelligence;Building+Modern+Web+Applications;Exploring+LLMs%2C+NLP%2C+and+Software+Engineering;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
-
+-->
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://portfolio-xi-azure-39.vercel.app)
