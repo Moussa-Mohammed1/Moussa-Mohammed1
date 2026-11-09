@@ -1,5 +1,5 @@
 <div align="center">
-![AI Engineer](https://github.com/Moussa-Mohammed1/Moussa-Mohammed1/blob/main/AI_engineer.jpeg)
+  <img src="https://raw.githubusercontent.com/Moussa-Mohammed1/Moussa-Mohammed1/main/AI_engineer.jpeg" alt="AI Engineer" />
 <!--
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f172a,100:1e293b\&height=200\&section=header\&text=Mohammed%20Moussa\&fontSize=50\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35\&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Developer\&descSize=16\&descAlignY=55)
 <!--
