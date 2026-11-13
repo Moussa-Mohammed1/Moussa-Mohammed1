@@ -18,11 +18,13 @@
 
 ## About Me
 
-I'm **Mohammed Moussa**, a Computer Science student specializing in **Artificial Intelligence** and passionate about building modern software solutions.
+I'm **Mohammed Moussa**, an AI & Full-Stack Developer passionate about building intelligent software solutions.
 
-My interests lie at the intersection of **Full-Stack Development**, **Artificial Intelligence**, and **Software Engineering**. I enjoy transforming ideas into practical applications, from AI-powered recruitment platforms to community-driven web solutions.
+I work at the intersection of **Artificial Intelligence, Backend Engineering, and Full-Stack Development**, turning ideas into practical applications.
 
-Currently, I'm focused on expanding my expertise in web development, AI technologies, and software architecture while building projects that solve real-world problems.
+My current interests include **LLMs, AI Agents, RAG systems, NLP, and intelligent automation**, alongside designing scalable web applications and APIs.
+
+I enjoy exploring emerging technologies, experimenting with new architectures, and building projects that solve real-world problems.
 
 ---
 
