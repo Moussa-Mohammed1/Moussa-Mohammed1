@@ -9,7 +9,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://portfolio-xi-azure-39.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/moussa-mohammed)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:moussamohammed2005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mohammed.moussa.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/moussa-mohammed1)
  
 </div>
